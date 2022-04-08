@@ -1,0 +1,32 @@
+{
+  "name": "2fa-generator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosumali/2fa-generator.git"
+  },
+  "author": "marcosumali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosumali/2fa-generator/issues"
+  },
+  "homepage": "https://github.com/marcosumali/2fa-generator#readme",
+  "dependencies": {
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "node-json-db": "^1.5.0",
+    "qrcode": "^1.5.0",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

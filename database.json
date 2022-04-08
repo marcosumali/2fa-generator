@@ -1,0 +1,10 @@
+{
+    "users": {
+        "7d8f55d7-beba-45f4-9953-fce55125cb60": {
+            "id": "7d8f55d7-beba-45f4-9953-fce55125cb60",
+            "name": "marco",
+            "is2FAEnabled": true,
+            "secret": "IR5VG5JIFESUCNCULY4TYKJBLIUV2YRFFBGDGMBGFZLGCNKFIJQQ"
+        }
+    }
+}
